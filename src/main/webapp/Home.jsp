@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>To Do List App</title>
 </head>
 <body>
 <h1>To Do List Application</h1>
